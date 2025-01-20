@@ -97,6 +97,4 @@ This configuration uses the following software:
 - **Static Wallpaper**: [feh](https://github.com/derf/feh)
 - **Screenshot**: [flameshot](https://flameshot.org/)
 
-## Credits
-- This environment has been inspired by the functionalities of [S4vitar's](https://github.com/s4vitar) environment.
-- Thanks to [Cube](https://github.com/ZLCube) for their contribution to the creation of the `archkali.png` wallpaper.
+
